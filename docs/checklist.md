@@ -2,8 +2,8 @@
 
 ## Header
 
-- [ ] Logo is visible
-- [ ] Navigation links work
+- [x] Logo is visible
+- [x] Navigation links work
 - [ ] Mobile menu opens correctly
 - [ ] Mobile menu closes correctly
 - [ ] Call button works
