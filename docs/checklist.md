@@ -4,7 +4,7 @@
 
 - [x] Logo is visible
 - [x] Navigation links work
-- [ ] Mobile menu opens correctly
+- [x] Mobile menu opens correctly
 - [ ] Mobile menu closes correctly
 - [ ] Call button works
 
