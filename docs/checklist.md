@@ -6,7 +6,7 @@
 - [x] Navigation links work
 - [x] Mobile menu opens correctly
 - [x] Mobile menu closes correctly
-- [ ] Call button works
+- [x] Call button works
 
 ---
 
