@@ -15,7 +15,7 @@
 - [x] Main heading is visible
 - [x] CTA button is visible
 - [x] CTA button is clickable
-- [ ] Hero image loads correctly
+- [x] Hero image loads correctly
 - [ ] Text is readable on mobile devices
 
 ---
