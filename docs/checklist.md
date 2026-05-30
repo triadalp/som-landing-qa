@@ -5,7 +5,7 @@
 - [x] Logo is visible
 - [x] Navigation links work
 - [x] Mobile menu opens correctly
-- [ ] Mobile menu closes correctly
+- [x] Mobile menu closes correctly
 - [ ] Call button works
 
 ---
