@@ -12,7 +12,7 @@
 
 ## Hero Section
 
-- [ ] Main heading is visible
+- [x] Main heading is visible
 - [ ] CTA button is visible
 - [ ] CTA button is clickable
 - [ ] Hero image loads correctly
