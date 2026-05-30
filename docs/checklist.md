@@ -13,7 +13,7 @@
 ## Hero Section
 
 - [x] Main heading is visible
-- [ ] CTA button is visible
+- [x] CTA button is visible
 - [ ] CTA button is clickable
 - [ ] Hero image loads correctly
 - [ ] Text is readable on mobile devices
