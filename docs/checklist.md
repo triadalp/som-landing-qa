@@ -22,9 +22,9 @@
 
 ## Services Section
 
-- [ ] Service cards are displayed correctly
-- [ ] Text is readable
-- [ ] Icons/images load correctly
+- [x] Service cards are displayed correctly
+- [x] Text is readable
+- [x] Icons/images load correctly
 
 ---
 
