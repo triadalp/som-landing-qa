@@ -30,9 +30,9 @@
 
 ## About Section
 
-- [ ] Owner information is displayed
-- [ ] Images load correctly
-- [ ] Layout is not broken
+- [x] Owner information is displayed
+- [x] Images load correctly
+- [x] Layout is not broken
 
 ---
 
