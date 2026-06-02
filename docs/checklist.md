@@ -38,8 +38,8 @@
 
 ## Reviews Section
 
-- [ ] Reviews are displayed
-- [ ] External review links work
+- [x] Reviews are displayed
+- [x] External review links work
 
 ---
 
