@@ -45,7 +45,7 @@
 
 ## Contact Section
 
-- [ ] Contact form is visible
+- [x] Contact form is visible
 - [ ] Input fields work correctly
 - [ ] Validation works
 - [ ] Error states are displayed
