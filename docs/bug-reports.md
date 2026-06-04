@@ -28,3 +28,44 @@ Medium
 
 ### Status
 Open
+
+
+
+## BUG-002
+
+### Title
+
+Name field accepts invalid characters.
+
+### Environment
+
+- Chrome
+- Desktop
+
+### Steps to Reproduce
+
+1. Open the website.
+2. Navigate to the contact form.
+3. Enter special characters into the "Imię i nazwisko" field (e.g. @#$%^&*).
+4. Fill the remaining required fields with valid data.
+5. Click "Wyślij".
+
+### Actual Result
+
+The name field accepts special characters as a valid value and does not display a validation error.
+
+### Expected Result
+
+The name field should reject special characters and display a validation error. Only valid name characters should be accepted.
+
+### Severity
+
+Medium
+
+### Priority
+
+Medium
+
+### Status
+
+Open
