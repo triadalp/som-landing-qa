@@ -47,7 +47,7 @@
 
 - [x] Contact form is visible
 - [x] Input fields work correctly
-- [ ] Validation works
+- [x] Validation works
 - [ ] Error states are displayed
 - [ ] Success state is displayed
 - [ ] Telegram link works

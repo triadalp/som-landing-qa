@@ -46,7 +46,7 @@ Name field accepts invalid characters.
 
 1. Open the website.
 2. Navigate to the contact form.
-3. Enter special characters into the "Imię i nazwisko" field (e.g. @#$%^&*).
+3. Enter special characters into the "Imię i nazwisko" field (e.g. @#$%^&*, 12345, "     ").
 4. Fill the remaining required fields with valid data.
 5. Click "Wyślij".
 
