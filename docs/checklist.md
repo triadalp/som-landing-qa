@@ -52,8 +52,8 @@
 - [x] Success state is displayed
 - [x] Telegram link works
 - [x] Phone number works
-- [ ] Email link works
-- [ ] Map opens correctly
+- [x] Email link works
+- [x] Map opens correctly
 
 ---
 
