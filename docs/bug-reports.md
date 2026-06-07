@@ -69,3 +69,35 @@ Medium
 ### Status
 
 Open
+
+
+## BUG-003
+
+### Title
+Email link contains outdated email address.
+
+### Environment
+- Chrome
+- Desktop
+- Production website
+
+### Steps to Reproduce
+1. Open the website.
+2. Navigate to the contact section.
+3. Inspect or copy the "Napisz e-mail" contact link.
+
+### Actual Result
+The email link uses the outdated email address:
+`autoserwis.som@gmail.com`.
+
+### Expected Result
+The email link should use the current business email address.
+
+### Severity
+Medium
+
+### Priority
+High
+
+### Status
+Open

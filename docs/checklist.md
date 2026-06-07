@@ -48,10 +48,10 @@
 - [x] Contact form is visible
 - [x] Input fields work correctly
 - [x] Validation works
-- [ ] Error states are displayed
-- [ ] Success state is displayed
-- [ ] Telegram link works
-- [ ] Phone number works
+- [x] Error states are displayed
+- [x] Success state is displayed
+- [x] Telegram link works
+- [x] Phone number works
 - [ ] Email link works
 - [ ] Map opens correctly
 
