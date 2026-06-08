@@ -100,4 +100,12 @@ Medium
 High
 
 ### Status
-Open
+Closed
+
+### Retest
+
+**Retest Result**
+PASS
+
+**Notes:**
+Email link was retested after the fix. The default email client opens correctly and the recipient field contains the correct email address.
