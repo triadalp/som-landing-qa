@@ -59,10 +59,10 @@
 
 ## Responsive Testing
 
-- [ ] Layout works on mobile devices
-- [ ] Layout works on tablet devices
-- [ ] Layout works on desktop devices
-- [ ] No horizontal scrolling appears
+- [x] Layout works on mobile devices
+- [x] Layout works on tablet devices
+- [x] Layout works on desktop devices
+- [x] No horizontal scrolling appears
 
 ---
 
