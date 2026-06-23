@@ -27,7 +27,15 @@ Low
 Medium
 
 ### Status
-Open
+Closed
+
+### Retest
+
+**Retest Result:**
+PASS
+
+**Notes:**
+Mobile menu was retested after the fix. Background page scrolling is disabled while the mobile menu is open.
 
 
 
@@ -68,7 +76,15 @@ Medium
 
 ### Status
 
-Open
+Closed
+
+### Retest
+
+**Retest Result:**
+PASS
+
+**Notes:**
+Name field validation was retested after the fix. Numeric characters, special characters and invalid name values are rejected correctly.
 
 
 ## BUG-003
