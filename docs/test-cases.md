@@ -1,5 +1,7 @@
 # Test Cases
 
+This document contains selected high-priority test cases based on the main user flows and business-critical functionality.
+
 ## TC-001: Successful contact form submission
 
 ### Preconditions

@@ -1,57 +1,95 @@
-# Serwis S.O.M. QA Testing Project
+# QA Portfolio Project – Serwis S.O.M.
 
-Manual QA testing project for a commercial automotive service landing page.
+## About the Project
 
-## Project Overview
+This repository contains QA documentation created during manual testing of a commercial landing page for **Serwis S.O.M.**, an automotive service located near Poznań, Poland.
 
-This repository contains manual testing documentation and QA artifacts created for the Serwis S.O.M. landing page project.
-
-The goal of this project is:
-- practice manual testing
-- improve QA thinking
-- simulate real commercial QA workflow
-- build portfolio-ready documentation
+The main business goal of the website is to allow potential customers to contact the service through a contact form, phone, email and Telegram.
 
 ---
 
-## Project Type
+## Project Information
 
-Commercial landing page for automotive service.
+**Project Type:** Commercial Landing Page
 
-Main business goal:
-- convert visitors into leads through contact form and direct communication channels
+**Testing Type:** Manual Testing
 
----
-
-## Testing Types
-
-- Functional testing
-- UI testing
-- Responsive testing
-- Regression testing
-- Exploratory testing
-- Basic SEO checks
-- Analytics verification
+**Testing Approach:** Black-box testing
 
 ---
 
-## Tech Stack
+## Testing Performed
 
-Frontend:
-- React
-- TypeScript
-- Vite
-- SCSS
+The project included:
 
-Backend:
-- Node.js
-- Express
+- Functional Testing
+- UI Testing
+- Responsive Testing
+- Positive Testing
+- Negative Testing
+- Contact Form Validation
+- Contact Links Verification
+- Retesting
+- Basic Regression Testing
+
+---
+
+## Bugs Found
+
+During testing several issues were identified, including:
+
+- Mobile menu background scrolling
+- Incorrect validation of the name field
+- Incorrect email contact link
+
+All reported issues were verified after fixes by performing retests.
 
 ---
 
 ## Repository Structure
 
-```text
-docs/          QA documentation
-screenshots/   Bug screenshots and evidence
-assets/        Additional project materials
+```
+docs/
+├── product-analysis.md
+├── test-scope.md
+├── test-plan.md
+├── checklist.md
+├── test-cases.md
+├── regression-checklist.md
+├── bug-reports.md
+└── test-summary-report.md
+```
+
+---
+
+## Tools Used
+
+- Google Chrome
+- Chrome DevTools
+- Git
+- GitHub
+
+---
+
+## Skills Demonstrated
+
+- Manual Testing
+- Functional Testing
+- UI Testing
+- Responsive Testing
+- Positive & Negative Testing
+- Bug Reporting
+- Retesting
+- Regression Testing
+- Test Planning
+- Test Case Design
+- Checklist Creation
+- Test Documentation
+
+---
+
+## Author
+
+Mariia Presniak
+
+Junior Manual QA
